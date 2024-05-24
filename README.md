@@ -12,5 +12,7 @@ N/A
 ## Usage
 Open the page here https://crestonesoftware.github.io/horiseon/
 
+!["screenshot of website for readme"](./website-screenshot-for-readme.png)
+
 ## Credits
 N/A
